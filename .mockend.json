@@ -1,5 +1,7 @@
 {
-  "medals": [
+  "medals": {
+    "medals": 
+    [
     {"name": "Huy chương tốc độ",
     "total": 3,
     "rate": 4.5,
@@ -11,4 +13,5 @@
      ]
     }
   ]
+  }
 }
