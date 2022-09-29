@@ -4,9 +4,10 @@
     "total": 3,
     "rate": 4.5,
      "medals": [
-       "name": "",
+       {"name": "",
        "total": 2,
        "rate": 4
+       }
      ]
     }
   ]
