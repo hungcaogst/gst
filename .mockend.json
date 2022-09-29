@@ -1,17 +1,226 @@
 {
-  "medals": {
-    "medals": 
-    [
-    {"name": "Huy chương tốc độ",
-    "total": 3,
-    "rate": 4.5,
-     "medals": [
-       {"name": "",
-       "total": 2,
-       "rate": 4
-       }
-     ]
+  "MedalsList": {
+{
+    "code": 200,
+    "result": "OK",
+    "data": {
+        "bonusPoints": 130.00,
+        "fundPoints": 900.00,
+        "medals": {
+            "totalMedal": 9,
+            "processMedal": 7,
+            "attitudeMedal": 1,
+            "qualityMedal": 1
+        },
+        "recognitions": [
+            {
+                "message": "111",
+                "type": 2,
+                "rewardForm": 1,
+                "point": 0.00,
+                "submitDate": "2022-09-29",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 215,
+                "organizationIcon": null
+            },
+            {
+                "message": "555",
+                "type": 2,
+                "rewardForm": 1,
+                "point": 0.00,
+                "submitDate": "2022-09-29",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 214,
+                "organizationIcon": null
+            },
+            {
+                "message": "444",
+                "type": 2,
+                "rewardForm": 1,
+                "point": 0.00,
+                "submitDate": "2022-09-29",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 213,
+                "organizationIcon": null
+            },
+            {
+                "message": "333",
+                "type": 2,
+                "rewardForm": 1,
+                "point": 0.00,
+                "submitDate": "2022-09-29",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 211,
+                "organizationIcon": null
+            },
+            {
+                "message": "111",
+                "type": 2,
+                "rewardForm": 1,
+                "point": 0.00,
+                "submitDate": "2022-09-29",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 210,
+                "organizationIcon": null
+            },
+            {
+                "message": "Sa",
+                "type": 2,
+                "rewardForm": 1,
+                "point": 0.00,
+                "submitDate": "2022-09-29",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00001070",
+                        "userName": "Phạm Thu Hương-quản lý",
+                        "organizationName": "PTCKT",
+                        "avatar": null,
+                        "email": "quanly@sungroup.com.vn"
+                    }
+                ],
+                "id": 209,
+                "organizationIcon": null
+            },
+            {
+                "message": "homemz12XXXX3",
+                "type": 2,
+                "rewardForm": 2,
+                "point": 10.00,
+                "submitDate": "2022-09-28",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 188,
+                "organizationIcon": null
+            },
+            {
+                "message": "homemz12XXXX3",
+                "type": 2,
+                "rewardForm": 2,
+                "point": 10.00,
+                "submitDate": "2022-09-28",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 187,
+                "organizationIcon": null
+            },
+            {
+                "message": "homemz12XXXX3",
+                "type": 2,
+                "rewardForm": 2,
+                "point": 10.00,
+                "submitDate": "2022-09-28",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 183,
+                "organizationIcon": null
+            },
+            {
+                "message": "homemz12XXXX3",
+                "type": 2,
+                "rewardForm": 2,
+                "point": 10.00,
+                "submitDate": "2022-09-28",
+                "giftType": 2,
+                "organizationName": null,
+                "userInfors": [
+                    {
+                        "userId": "00019511",
+                        "userName": "Lê Hải Chi- lãnh đạo",
+                        "organizationName": "BPTKUD",
+                        "avatar": null,
+                        "email": "lanhdao@sungroup.com.vn"
+                    }
+                ],
+                "id": 182,
+                "organizationIcon": null
+            }
+        ],
+        "numberThankReceived": 9,
+        "numberThankSent": 12,
+        "bonusPointReceived": 120.00,
+        "bonusPointSent": 100.00,
+        "total": 36
     }
-  ]
+}    
   }
 }
+
