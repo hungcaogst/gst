@@ -1,5 +1,5 @@
 {
-  "MedalsList": {
+  "MedalsList":
 {
     "code": 200,
     "result": "OK",
@@ -221,6 +221,5 @@
         "total": 36
     }
 }    
-  }
 }
 
