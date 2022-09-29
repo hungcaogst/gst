@@ -1,14 +1,13 @@
 {
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
+  "medals": [
+    {"name": "Huy chương tốc độ",
+    "total": 3,
+    "rate": 4.5,
+     "medals": [
+       "name": "",
+       "total": 2,
+       "rate": 4
+     ]
     }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
+  ]
 }
